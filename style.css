@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 
-body{}
+body{
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    background-color: ;
+    color: ;
+}
+
+h1 span{
+    color: ;
+}
+
+#dias_restantes{
+    color: ;
+    font-size: ;
+}
 
 
